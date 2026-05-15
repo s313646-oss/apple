@@ -39,7 +39,7 @@ models/best.onnx
 
 ```json
 [
-  "百合甲蟲"
+  "好壞蘋果識別"
 ]
 ```
 
